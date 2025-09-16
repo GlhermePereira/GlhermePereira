@@ -10,7 +10,7 @@ Tenho paixão por automação, desenvolvimento de software e aprendizagem contí
 | Projeto | Tecnologias | Descrição | Link |
 |---------|------------|-----------|------|
 | **Crypto Pipeline ETL** | Python, Airflow, Docker, Postgres | Pipeline ETL de criptomoedas com extração de API, transformação de dados e carga em Postgres. | [Repositório](https://github.com/GlhermePereira/airflow-docker) |
-| **Benucci Artesanato** | React Native, Spring Boot, Java, MySQL | Aplicativo mobile para catálogo de produtos artesanais, com backend em Java/Spring Boot. | [Repositório](https://github.com/GlhermePereira/Benucci-Artesanato |
+| **Benucci Artesanato** | React Native, Spring Boot, Java, MySQL | Aplicativo mobile para catálogo de produtos artesanais, com backend em Java/Spring Boot. | [Repositório](https://github.com/GlhermePereira/Benucci-Artesanato) |
 | **SchoON** | HTML, CSS, JavaScript, MySQL | Sistema de integração pais-escola, com login, envio de recados e importação de notas. | [Repositório](https://github.com/GlhermePereira/SchoON) |
 
 ---
