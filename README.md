@@ -1,47 +1,80 @@
-# Olá, eu sou Guilherme Pereira 👋
+# Guilherme Pereira 👋
 
-Estudante de **Desenvolvimento de Software Multiplataforma** com experiência em **Java, C#, SQL, HTML, CSS, JavaScript**, além de projetos em **DevOps, Docker, Airflow e Postgres**.  
-Tenho paixão por automação, desenvolvimento de software e aprendizagem contínua.
+**Full Stack Developer | Java & JavaScript Specialist | Linux Enthusiast**
 
----
+Desenvolvedor focado na construção de aplicações robustas e escaláveis. Opero sob uma cultura **keyboard-centric**, utilizando um workflow otimizado via terminal para garantir eficiência e código limpo.
 
-## 🚀 Meus Projetos Principais
-
-| Projeto | Tecnologias | Descrição | Link |
-|---------|------------|-----------|------|
-| **Crypto Pipeline ETL** | Python, Airflow, Docker, Postgres | Pipeline ETL de criptomoedas com extração de API, transformação de dados e carga em Postgres. | [Repositório](https://github.com/GlhermePereira/airflow-docker) |
-| **Benucci Artesanato** | React Native, Spring Boot, Java, MySQL | Aplicativo mobile para catálogo de produtos artesanais, com backend em Java/Spring Boot. | [Repositório](https://github.com/GlhermePereira/Benucci-Artesanato
----
-
-## 🛠️ Tecnologias que Domino
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> 🐧 **Arch Linux** user | **i3wm** | **LazyVim** enthusiast.
 
 ---
 
-## 📈 Estatísticas do GitHub
+### 🚀 Core Stack & Expertise
 
-![Guilherme's GitHub stats](https://github-readme-stats.vercel.app/api?username=GlhermePereira&show_icons=true&theme=radical)
+- **Backend:** Java 17+, Spring Boot, Spring Security (JWT), Hibernate, REST APIs.
+    
+- **Frontend & Mobile:** JavaScript/TypeScript, React, React Native (Expo).
+    
+- **Data & AI:** Pipelines ETL (Apache Airflow), Integração de Machine Learning (Python/Similaridade Vetorial).
+    
+- **Infra & Tooling:** Docker, PostgreSQL, Shell Scripting, Git, Linux Administration.
+    
 
 ---
 
-## 📫 Contato
+### 💻 Development Environment (Dotfiles)
 
-- **Email:** guilherme.aqw24@gmail.com  
-- **LinkedIn:** [Guilherme Pereira](https://www.linkedin.com/in/guilherme-pereira-1aab451a0/)  
-- **GitHub:** [GlhermePereira](https://github.com/GlhermePereira)
+- **OS:** Arch Linux (Rolling Release)
+    
+- **WM:** i3wm (Workflow modular focado em produtividade)
+    
+- **Editor:** Neovim + **LazyVim** (LSP, Debugging e Git integrado)
+    
+- **Terminal:** Alacritty / Kitty + ZSH + tmux
+    
 
 ---
 
-> 🎯 Meu objetivo: Contribuir com desenvolvimento de software, automação e projetos DevOps, aprendendo continuamente e entregando soluções de qualidade.
+### 🛠️ Projetos em Destaque
+
+#### [CinePro – Full Stack Platform](https://github.com/GlhermePereira/front-api-omdb)
+
+Ecossistema completo de gestão cinematográfica integrado à OMDb API.
+
+- **Frontend:** [Interface Web (JavaScript)](https://github.com/GlhermePereira/front-api-omdb) — UI moderna com design Glassmorphism.
+    
+- **Backend:** [API REST (Java/Spring Boot)](https://github.com/GlhermePereira/ConsultarOmdbApi) — Autenticação JWT e persistência de dados.
+    
+
+#### [Benucci Artesanato – Mobile & ML](https://github.com/GlhermePereira/Benucci-Artesanato)
+
+E-commerce multiplataforma com motor de recomendação inteligente.
+
+- **Mobile:** [React Native App](https://www.google.com/search?q=https://github.com/DiegoPereira100/benucci-artesanato-front) — Experiência mobile nativa em TypeScript.
+    
+- **Backend:** [Management API (Java)](https://github.com/GlhermePereira/Benucci-Artesanato) — Gestão de inventário e pedidos.
+    
+- **AI Service:** [Recommendation API (Python)](https://www.google.com/search?q=https://github.com/GlhermePereira/api-ml-benucci) — Motor de similaridade vetorial para sugestão de produtos.
+    
+
+#### [Crypto Pipeline ETL](https://github.com/GlhermePereira/airflow-docker)
+
+Engenharia de dados para monitoramento de ativos financeiros.
+
+- **Stack:** Python, Apache Airflow, Docker, PostgreSQL.
+    
+- **Workflow:** Orquestração automatizada de extração e carga de dados.
+    
+
+---
+
+### 📈 GitHub Stats
+
+---
+
+### 📫 Contato
+
+- **LinkedIn:** [/guilherme-pereira](https://www.linkedin.com/in/guilherme-pereira-1aab451a0/)
+    
+- **Email:** [guilherme.aqw24@gmail.com](mailto:guilherme.aqw24@gmail.com)
+    
+- **GitHub:** [@GlhermePereira](https://github.com/GlhermePereira)
